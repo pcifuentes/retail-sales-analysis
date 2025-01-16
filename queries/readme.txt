@@ -1,0 +1,1 @@
+This folder contains SQL queries for analysis
